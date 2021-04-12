@@ -1,0 +1,17 @@
+footer {
+  grid-area: footer;
+  background: rgb(119, 95, 250);
+  padding: 1em;
+  text-align: center;
+}
+
+.recent {
+  padding-top: 20px;
+}
+
+.jumbotron {
+  background-color: rgb(119, 95, 250);
+  margin: 2px;
+  padding-top: 4em;
+  padding-bottom: 1em;
+}
